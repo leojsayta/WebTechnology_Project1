@@ -1,0 +1,27 @@
+main {
+    width: 500px;
+    margin: auto;
+    background: lightgrey;
+}
+
+div {
+    width: 195px;
+    float: right;
+}
+
+nav {
+    /* uncomment the next line to get a border around the nav */
+    border: 1px solid black;
+}
+
+nav p {
+
+
+}
+
+p {
+    margin: 0;
+    border: 1px solid orange;
+    width: 295px;
+    float: left;
+}
